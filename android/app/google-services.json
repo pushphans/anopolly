@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "391379173614",
+    "project_id": "anopolly-2224a",
+    "storage_bucket": "anopolly-2224a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391379173614:android:fec008e8b5f9f939f973ff",
+        "android_client_info": {
+          "package_name": "com.example.anopolly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391379173614-ggvttkh73s6k69mhbbpvif24vgeoqtp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anopolly",
+            "certificate_hash": "6be285d6948dbaa78cc6dc3e91126d16ded0e91c"
+          }
+        },
+        {
+          "client_id": "391379173614-iktf50jcsilrqv2h3q5o7fggs62fk81v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPAuswI2oib9FxH5OUSjtstE15V2moYYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391379173614-iktf50jcsilrqv2h3q5o7fggs62fk81v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391379173614-m89o7gm675h8itu42apsh7qrfa9i0v31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.anopolly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
