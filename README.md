@@ -1,16 +1,29 @@
 # anopolly
 
-A new Flutter project.
+A clean and modern Flutter application focused on delivering a simple and polished mobile experience.
+
+## Overview
+This project is designed to showcase practical Flutter development with a user-friendly interface and a well-structured app foundation.
+
+## Key Features
+- Modern Flutter UI
+- Clean app architecture
+- Easy-to-understand project structure
+- Suitable for learning and portfolio use
+
+## Tech Stack
+- Flutter
+- Dart
+
+## Project Highlights
+- Great example of Flutter app structure
+- Good for UI practice and app experimentation
+- Easy to extend with new features
 
 ## Getting Started
+1. Clone the repository
+2. Install dependencies
+3. Run the app on your device or emulator
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact
+For questions or collaboration, reach out to @pushphans.
